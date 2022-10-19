@@ -49,3 +49,4 @@ int parser(const char *format, conver_t f_list[], va_list arg_list)
 		}
 	}
 	return (printed_chars);
+}
